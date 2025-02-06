@@ -1,0 +1,51 @@
+body{
+    background-color: aquamarine;
+    
+}
+
+header{
+    text-align: center;
+    color: navy;
+    font-size: 45px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+p{
+text-align: center;
+margin-left: 130px;
+margin-right: 130px;
+color: rgb(72, 9, 189);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 17px;
+}
+#foot{
+    color: black;
+    text-align: center;
+    font-weight: bold;
+
+}
+footer{
+    text-align: center;
+}
+#beak{
+    text-align: center;
+}
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+ 
